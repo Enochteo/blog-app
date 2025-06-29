@@ -8,3 +8,7 @@ It would entail the functionings summarized in CRUD i.e you would be able to Cre
 - Django
 - Sqlite
 - HTML/CSS
+
+## Author
+- Enoch Owoade
+- Email: enochowoade@gmail.com
